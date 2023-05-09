@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\olive\\RepoIstea\\PruebasVarias\\yy\\yy.csproj",
+      "projectUniqueName": "c:\\Users\\olive\\RepoIstea\\MasPruebas\\yy\\yy.csproj",
       "projectName": "yy",
-      "projectPath": "C:\\Users\\olive\\RepoIstea\\PruebasVarias\\yy\\yy.csproj",
+      "projectPath": "c:\\Users\\olive\\RepoIstea\\MasPruebas\\yy\\yy.csproj",
       "packagesPath": "C:\\Users\\olive\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\olive\\RepoIstea\\PruebasVarias\\yy\\obj\\",
+      "outputPath": "c:\\Users\\olive\\RepoIstea\\MasPruebas\\yy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\olive\\AppData\\Roaming\\NuGet\\NuGet.Config",

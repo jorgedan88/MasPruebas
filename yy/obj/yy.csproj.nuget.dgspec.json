@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\olive\\RepoIstea\\PruebasVarias\\yy\\yy.csproj": {}
+    "C:\\Users\\olive\\RepoIstea\\MasPruebas\\yy\\yy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\olive\\RepoIstea\\PruebasVarias\\yy\\yy.csproj": {
+    "C:\\Users\\olive\\RepoIstea\\MasPruebas\\yy\\yy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\olive\\RepoIstea\\PruebasVarias\\yy\\yy.csproj",
+        "projectUniqueName": "C:\\Users\\olive\\RepoIstea\\MasPruebas\\yy\\yy.csproj",
         "projectName": "yy",
-        "projectPath": "C:\\Users\\olive\\RepoIstea\\PruebasVarias\\yy\\yy.csproj",
+        "projectPath": "C:\\Users\\olive\\RepoIstea\\MasPruebas\\yy\\yy.csproj",
         "packagesPath": "C:\\Users\\olive\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\olive\\RepoIstea\\PruebasVarias\\yy\\obj\\",
+        "outputPath": "C:\\Users\\olive\\RepoIstea\\MasPruebas\\yy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\olive\\AppData\\Roaming\\NuGet\\NuGet.Config",
